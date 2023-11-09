@@ -1,0 +1,1 @@
+# Gold-Mine-Problem-using-Dynamic-Programming-in-C-
